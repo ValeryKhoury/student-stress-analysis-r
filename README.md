@@ -17,21 +17,4 @@ conclusions from the data.
   conclusions and make the findings robust and reliable
 
 ## Tools used
-R · [Add packages, e.g. tidyverse, ggplot2, dplyr]
-
-## Dataset
-[Add the source: e.g. public dataset name and link, or "survey collected for
-the course". Add the number of observations and key variables]
-
-## Key findings
-- [Add 2-3 findings, e.g. which factors were linked to higher stress]
-
-## Repository contents
-- `analysis.R`: R script with the full analysis
-- `figures/`: charts and plots
-- `report/`: written report (PDF)
-
-## How to run
-1. Install R and RStudio
-2. Open `analysis.R`
-3. Install the required packages, then run the script
+R 
